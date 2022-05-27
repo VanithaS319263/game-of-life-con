@@ -1,1 +1,1 @@
-"created new text doc"
+"this is new line in diff file"
